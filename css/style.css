@@ -1,0 +1,19 @@
+/* Styles for ALL pages in this website */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+.flex-container {
+  display: flex;
+}
